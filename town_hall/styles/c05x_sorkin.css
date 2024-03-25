@@ -2,3 +2,68 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
 }
+html {
+	background-color: yellow;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	width: 650px;
+	margin: auto;
+	border: 9px double blue;
+	background-color: white;
+}
+main {
+	padding: 1.5em;
+}
+footer {
+	border-top: 3px solid blue;
+	margin: 0 1em;
+	padding: 1em 1em 0 1em;
+}
+footer p {
+	font-size: 90%;
+	font-weight: bold;
+	text-align: center;
+}
+h1 {
+	font-size: 150%;
+	color: blue;
+	margin: 0;
+}
+h2 {
+	font-size: 125%;
+	margin: 0;
+	padding-bottom: .20em;
+}
+h3 {
+	font-size: 115%;
+	margin: 0;
+	padding: .5em 0;
+}
+p {
+	margin: 0;
+	padding-bottom: 1em;
+}
+blockquote {
+	margin: 0;
+	padding: .15em 0;
+}
+ul {
+	margin: 0;
+	padding-left: 1em;
+}
+li {
+	padding: .10em;
+}
+cite {
+	color: blue;
+	font-style: normal;
+}
+#cite{
+	text-align: right;
+}
+img {
+	float: left;
+	margin: .75em 1em .75em 0;
+}
